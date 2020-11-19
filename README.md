@@ -3,7 +3,6 @@
 
 
 [![example 1](https://img.youtube.com/embed/PqLKCaNm3G0/0.jpg)](https://www.youtube.com/embed/PqLKCaNm3G0 "demo 1")
-[![example 2](http://img.youtube.com/vi/y-1lO3m-SRI/0.jpg)](https://youtu.be/y-1lO3m-SRI "demo 2")
 
 
 
