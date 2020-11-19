@@ -1,0 +1,362 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\30261e7048fe058ea23e6d31f26a5aab\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\8acca5d4787762699affe8725ea1f659\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.mlkit:face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\face-detection-16.0.0.aar\820f11fc403e57436b94bc2f4cfab551\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-mlkit-face-detection-16.0.0.aar\b1eddca924420fbfbbb2a5bb97bd6221\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-face-contour-internal-16.0.1.aar\1e71c132b521f6f5d45c9f64bf321baa\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-20.1.0.aar\f64db5e0656d280c816dbd4f767e3551\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-19.1.0.aar\8daf560b8996369b284187b77c08c0f7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vision-common-16.0.0.aar\83b8f17c0f01af6b716e1beb1ddd4bd5\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-17.0.0.aar\f8ae7ba0aa9d0a304dff0242bec640e7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-flags-17.0.0.aar\a5e7c426bcefae5c2d77483e6af4c3a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-17.0.0.aar\1c6201020db4ed720ce3bec1d3a5320d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\91b714caf16fc20ffcf6527180a8b0c5\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\0994c4865956ac6ca197092426847c36\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\6a1693ca19d7d444c3b50ee40ceb0daa\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\2d16c9cdfcc9d5320af78434f10129f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\13809f80cd6682c47542f41710111b86\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\133c8c8954ada6bd54494f1a684e1af8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\f2d903547467ced8966cf78d59744b9b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\470dfe04c4285c8b5c29deeb6c185446\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\8f68f0763fa1394a592019c424412736\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\6a06abbd4e935e9fde02b17a01b13de8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\f2b4bd31b7346b292e01e02cf3c8eb51\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\eab2cea61b7b004bc0ce53d78eef3ed5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\c16040cf2ed699752358bf40c208c7d6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\edf1fc7c627b0918acf71575accf73db\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\57fead53218d1c4348bee288e3e14faf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\74e7ad9f684fab9af38cbbb6137a45c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d678cbb42a9f18a2b4d362f3c8935766\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\e56d1452d471eba4accc384efdca218e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\b5d86cff1ab351641371f4d559d1cafe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f511301a397b20bc3a5e5a7ee2e1e6ce\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\aaf615ba4867ebdd62f62a4480cb3e64\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\a1bbab9e7d3a86514a480f6a06fd4b1f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\b3569f49ff4f461c018d2cde42c8aac5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\56526fd00f86f8c03b1d45416b69412f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\dc46f46967e5efb4798767df3fd36da9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a97ad092a92ad0fceaaa0c41800b688b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\517696dac1e62777ad55f669458facd7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\8783e2fdb6c5752afacd2365897bfa24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\a1e5dce5c598b6310441c832797d9abd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-firebase-components-16.0.0.aar\e5130957dd198fb773af51de547130b1\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\4d365ef12ed122a7f77bbe98ddff0d93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\fed3c61c8dd65e3ed3c80767e68720b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e4a359cbfe925c3ffab267a6645a7969\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\firebase-encoders-json-16.1.0.aar\3bd502133df799cbb2cd0746bc2dcc06\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\1a06d13101acd578cabd58dc851bfb3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\transport-api-2.2.0.aar\5de3aea5cf0f940b5dc08045c0603a83\AndroidManifest.xml:15:1-22:12
+INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:2:5-53
+		INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:4:5-17
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\30261e7048fe058ea23e6d31f26a5aab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\30261e7048fe058ea23e6d31f26a5aab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\8acca5d4787762699affe8725ea1f659\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\8acca5d4787762699affe8725ea1f659\AndroidManifest.xml:20:5-44
+MERGED from [com.google.mlkit:face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\face-detection-16.0.0.aar\820f11fc403e57436b94bc2f4cfab551\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\face-detection-16.0.0.aar\820f11fc403e57436b94bc2f4cfab551\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-mlkit-face-detection-16.0.0.aar\b1eddca924420fbfbbb2a5bb97bd6221\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-mlkit-face-detection-16.0.0.aar\b1eddca924420fbfbbb2a5bb97bd6221\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-face-contour-internal-16.0.1.aar\1e71c132b521f6f5d45c9f64bf321baa\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-face-contour-internal-16.0.1.aar\1e71c132b521f6f5d45c9f64bf321baa\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-20.1.0.aar\f64db5e0656d280c816dbd4f767e3551\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-20.1.0.aar\f64db5e0656d280c816dbd4f767e3551\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-19.1.0.aar\8daf560b8996369b284187b77c08c0f7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-19.1.0.aar\8daf560b8996369b284187b77c08c0f7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vision-common-16.0.0.aar\83b8f17c0f01af6b716e1beb1ddd4bd5\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vision-common-16.0.0.aar\83b8f17c0f01af6b716e1beb1ddd4bd5\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-17.0.0.aar\f8ae7ba0aa9d0a304dff0242bec640e7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-17.0.0.aar\f8ae7ba0aa9d0a304dff0242bec640e7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-flags-17.0.0.aar\a5e7c426bcefae5c2d77483e6af4c3a3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-flags-17.0.0.aar\a5e7c426bcefae5c2d77483e6af4c3a3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-17.0.0.aar\1c6201020db4ed720ce3bec1d3a5320d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-17.0.0.aar\1c6201020db4ed720ce3bec1d3a5320d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\91b714caf16fc20ffcf6527180a8b0c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\91b714caf16fc20ffcf6527180a8b0c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\0994c4865956ac6ca197092426847c36\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\0994c4865956ac6ca197092426847c36\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\6a1693ca19d7d444c3b50ee40ceb0daa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\6a1693ca19d7d444c3b50ee40ceb0daa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\2d16c9cdfcc9d5320af78434f10129f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\2d16c9cdfcc9d5320af78434f10129f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\13809f80cd6682c47542f41710111b86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\13809f80cd6682c47542f41710111b86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\133c8c8954ada6bd54494f1a684e1af8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\133c8c8954ada6bd54494f1a684e1af8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\f2d903547467ced8966cf78d59744b9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\f2d903547467ced8966cf78d59744b9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\470dfe04c4285c8b5c29deeb6c185446\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\470dfe04c4285c8b5c29deeb6c185446\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\8f68f0763fa1394a592019c424412736\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\8f68f0763fa1394a592019c424412736\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\6a06abbd4e935e9fde02b17a01b13de8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\6a06abbd4e935e9fde02b17a01b13de8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\f2b4bd31b7346b292e01e02cf3c8eb51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\f2b4bd31b7346b292e01e02cf3c8eb51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\eab2cea61b7b004bc0ce53d78eef3ed5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\eab2cea61b7b004bc0ce53d78eef3ed5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\c16040cf2ed699752358bf40c208c7d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\c16040cf2ed699752358bf40c208c7d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\edf1fc7c627b0918acf71575accf73db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\edf1fc7c627b0918acf71575accf73db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\57fead53218d1c4348bee288e3e14faf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\57fead53218d1c4348bee288e3e14faf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\74e7ad9f684fab9af38cbbb6137a45c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\74e7ad9f684fab9af38cbbb6137a45c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d678cbb42a9f18a2b4d362f3c8935766\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d678cbb42a9f18a2b4d362f3c8935766\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\e56d1452d471eba4accc384efdca218e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\e56d1452d471eba4accc384efdca218e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\b5d86cff1ab351641371f4d559d1cafe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\b5d86cff1ab351641371f4d559d1cafe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f511301a397b20bc3a5e5a7ee2e1e6ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f511301a397b20bc3a5e5a7ee2e1e6ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\aaf615ba4867ebdd62f62a4480cb3e64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\aaf615ba4867ebdd62f62a4480cb3e64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\a1bbab9e7d3a86514a480f6a06fd4b1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\a1bbab9e7d3a86514a480f6a06fd4b1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\b3569f49ff4f461c018d2cde42c8aac5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\b3569f49ff4f461c018d2cde42c8aac5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\56526fd00f86f8c03b1d45416b69412f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\56526fd00f86f8c03b1d45416b69412f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\dc46f46967e5efb4798767df3fd36da9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\dc46f46967e5efb4798767df3fd36da9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a97ad092a92ad0fceaaa0c41800b688b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a97ad092a92ad0fceaaa0c41800b688b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\517696dac1e62777ad55f669458facd7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\517696dac1e62777ad55f669458facd7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\8783e2fdb6c5752afacd2365897bfa24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\8783e2fdb6c5752afacd2365897bfa24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\a1e5dce5c598b6310441c832797d9abd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\a1e5dce5c598b6310441c832797d9abd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-firebase-components-16.0.0.aar\e5130957dd198fb773af51de547130b1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-firebase-components-16.0.0.aar\e5130957dd198fb773af51de547130b1\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\4d365ef12ed122a7f77bbe98ddff0d93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\4d365ef12ed122a7f77bbe98ddff0d93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\fed3c61c8dd65e3ed3c80767e68720b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\fed3c61c8dd65e3ed3c80767e68720b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e4a359cbfe925c3ffab267a6645a7969\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e4a359cbfe925c3ffab267a6645a7969\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\firebase-encoders-json-16.1.0.aar\3bd502133df799cbb2cd0746bc2dcc06\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\firebase-encoders-json-16.1.0.aar\3bd502133df799cbb2cd0746bc2dcc06\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\1a06d13101acd578cabd58dc851bfb3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\1a06d13101acd578cabd58dc851bfb3d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\transport-api-2.2.0.aar\5de3aea5cf0f940b5dc08045c0603a83\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\transport-api-2.2.0.aar\5de3aea5cf0f940b5dc08045c0603a83\AndroidManifest.xml:18:5-20:41
+INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:4:5-17
+	android:targetSdkVersion
+		INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:4:5-17
+		INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:4:5-17
+		MERGED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:4:5-17
+		INJECTED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:9:19-67
+application
+ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:11:5-29:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\30261e7048fe058ea23e6d31f26a5aab\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\30261e7048fe058ea23e6d31f26a5aab\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-mlkit-face-detection-16.0.0.aar\b1eddca924420fbfbbb2a5bb97bd6221\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-mlkit-face-detection-16.0.0.aar\b1eddca924420fbfbbb2a5bb97bd6221\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-face-contour-internal-16.0.1.aar\1e71c132b521f6f5d45c9f64bf321baa\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-face-contour-internal-16.0.1.aar\1e71c132b521f6f5d45c9f64bf321baa\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-20.1.0.aar\f64db5e0656d280c816dbd4f767e3551\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-20.1.0.aar\f64db5e0656d280c816dbd4f767e3551\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-19.1.0.aar\8daf560b8996369b284187b77c08c0f7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-19.1.0.aar\8daf560b8996369b284187b77c08c0f7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vision-common-16.0.0.aar\83b8f17c0f01af6b716e1beb1ddd4bd5\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vision-common-16.0.0.aar\83b8f17c0f01af6b716e1beb1ddd4bd5\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-17.0.0.aar\f8ae7ba0aa9d0a304dff0242bec640e7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-17.0.0.aar\f8ae7ba0aa9d0a304dff0242bec640e7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-17.0.0.aar\1c6201020db4ed720ce3bec1d3a5320d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-17.0.0.aar\1c6201020db4ed720ce3bec1d3a5320d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\91b714caf16fc20ffcf6527180a8b0c5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\91b714caf16fc20ffcf6527180a8b0c5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\0994c4865956ac6ca197092426847c36\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\0994c4865956ac6ca197092426847c36\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\6a1693ca19d7d444c3b50ee40ceb0daa\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\6a1693ca19d7d444c3b50ee40ceb0daa\AndroidManifest.xml:22:5-26:19
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\8f68f0763fa1394a592019c424412736\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\8f68f0763fa1394a592019c424412736\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f511301a397b20bc3a5e5a7ee2e1e6ce\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f511301a397b20bc3a5e5a7ee2e1e6ce\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\aaf615ba4867ebdd62f62a4480cb3e64\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\aaf615ba4867ebdd62f62a4480cb3e64\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:25:5-39:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f511301a397b20bc3a5e5a7ee2e1e6ce\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:14:9-48
+	android:roundIcon
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:15:9-62
+	android:icon
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:13:9-51
+	android:allowBackup
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:12:9-36
+	android:theme
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:17:9-56
+activity#org.tensorflow.lite.examples.detection.DetectorActivity
+ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:21:13-52
+	android:name
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:20:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Hatem\Desktop\face_recognition-master\android\app\src\main\AndroidManifest.xml:25:27-74
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-mlkit-face-detection-16.0.0.aar\b1eddca924420fbfbbb2a5bb97bd6221\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vision-common-16.0.0.aar\83b8f17c0f01af6b716e1beb1ddd4bd5\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vision-common-16.0.0.aar\83b8f17c0f01af6b716e1beb1ddd4bd5\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-mlkit-face-detection-16.0.0.aar\b1eddca924420fbfbbb2a5bb97bd6221\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-mlkit-face-detection-16.0.0.aar\b1eddca924420fbfbbb2a5bb97bd6221\AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-mlkit-face-detection-16.0.0.aar\b1eddca924420fbfbbb2a5bb97bd6221\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-mlkit-face-detection-16.0.0.aar\b1eddca924420fbfbbb2a5bb97bd6221\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-mlkit-face-detection-16.0.0.aar\b1eddca924420fbfbbb2a5bb97bd6221\AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vision-common-16.0.0.aar\83b8f17c0f01af6b716e1beb1ddd4bd5\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vision-common-16.0.0.aar\83b8f17c0f01af6b716e1beb1ddd4bd5\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\vision-common-16.0.0.aar\83b8f17c0f01af6b716e1beb1ddd4bd5\AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\common-16.0.0.aar\ffbda4013d3ab3910dc145569e21ea21\AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\91b714caf16fc20ffcf6527180a8b0c5\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\91b714caf16fc20ffcf6527180a8b0c5\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\91b714caf16fc20ffcf6527180a8b0c5\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\91b714caf16fc20ffcf6527180a8b0c5\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\6a1693ca19d7d444c3b50ee40ceb0daa\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\6a1693ca19d7d444c3b50ee40ceb0daa\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\6a1693ca19d7d444c3b50ee40ceb0daa\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:26:22-64
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-backend-cct-2.2.2.aar\6f065c438aedd46f66f5755d841ac88f\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\Hatem\.gradle\caches\transforms-1\files-1.1\jetified-transport-runtime-2.2.2.aar\e5220e01e71e80ac834df9a743dc83dc\AndroidManifest.xml:33:13-132
